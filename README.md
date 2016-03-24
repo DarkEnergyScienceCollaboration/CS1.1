@@ -1,4 +1,4 @@
-##  Standardize project wide definitions for galaxy observables
+#  Standardize project wide definitions for galaxy observables
 
 Summary -- Define the common observational properties that will need to be controlled and
 validated (e.g. size, shape, flux, and light profile.)
